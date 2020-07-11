@@ -16,6 +16,7 @@ return [
     'module_listener_options' => [
         'module_paths' => [
             './module',
+            'ZfrCors',
             './vendor'
         ],
         // Using __DIR__ to ensure cross-platform compatibility. Some platforms --
